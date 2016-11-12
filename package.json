@@ -1,0 +1,18 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "Edwar",
+  "contributors": [],
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.16.6",
+    "yargs": "^4.7.1"
+  }
+}
